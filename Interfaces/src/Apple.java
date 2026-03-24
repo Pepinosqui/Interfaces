@@ -1,5 +1,6 @@
 public class Apple extends Fruit implements Edible {
 	// Abstract methods definitions
+	
 	public String flavourType() {
 		return "Sweet";
 	}
